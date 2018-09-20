@@ -1,0 +1,9 @@
+scikit-build
+pandas
+memory_profiler
+seaborn
+# Following versions used with Python3.6
+opencv-python==3.4.1
+itk==4.13.0
+mahotas==1.4.4
+scikit-image==0.14
