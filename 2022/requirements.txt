@@ -1,0 +1,12 @@
+scikit-build
+pandas
+memory_profiler
+seaborn
+psutil
+scipy
+numpy
+opencv-python
+# Following versions used with Python3.8
+itk==5.2.0
+mahotas==1.4.11
+scikit-image==0.18.0
